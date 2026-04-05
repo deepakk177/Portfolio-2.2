@@ -1,8 +1,3 @@
-
-# ✧ DEEPAK SINGH PORTE — Modern Motion Portfolio
-
-A premium, motion-focused developer portfolio designed with a focus on cinematic aesthetics, high-performance interactions, and minimalist design.
-
 ![Portfolio Preview](https://images.unsplash.com/photo-1545665277-5937489579f2?auto=format&fit=crop&q=80&w=1200)
 
 ## ✧ Vision
